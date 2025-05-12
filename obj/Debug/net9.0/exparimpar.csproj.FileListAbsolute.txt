@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista4\exparimpar\bin\Debug\net9.0\exparimpar.exe
+C:\Users\thiag\Github\ListasLp1\Lista4\exparimpar\bin\Debug\net9.0\exparimpar.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista4\exparimpar\bin\Debug\net9.0\exparimpar.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista4\exparimpar\bin\Debug\net9.0\exparimpar.dll
+C:\Users\thiag\Github\ListasLp1\Lista4\exparimpar\bin\Debug\net9.0\exparimpar.pdb
+C:\Users\thiag\Github\ListasLp1\Lista4\exparimpar\obj\Debug\net9.0\exparimpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista4\exparimpar\obj\Debug\net9.0\exparimpar.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista4\exparimpar\obj\Debug\net9.0\exparimpar.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista4\exparimpar\obj\Debug\net9.0\exparimpar.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista4\exparimpar\obj\Debug\net9.0\exparimpar.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista4\exparimpar\obj\Debug\net9.0\exparimpar.dll
+C:\Users\thiag\Github\ListasLp1\Lista4\exparimpar\obj\Debug\net9.0\refint\exparimpar.dll
+C:\Users\thiag\Github\ListasLp1\Lista4\exparimpar\obj\Debug\net9.0\exparimpar.pdb
+C:\Users\thiag\Github\ListasLp1\Lista4\exparimpar\obj\Debug\net9.0\exparimpar.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista4\exparimpar\obj\Debug\net9.0\ref\exparimpar.dll
